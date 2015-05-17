@@ -8,6 +8,7 @@ echo    '<ul>
             <li> <a href="addRecipe.php"> Add Recipe</a> </li>
             <li> <a href="showRecipes.php"> Show Recipes</a> </li>
             <li> <a href="search.php"> Search</a> </li>
+			<li> <a href="about.php"> About</a> </li>
         </ul>';
 ?>
 
